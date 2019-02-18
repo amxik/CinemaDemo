@@ -40,10 +40,11 @@
     </dependency>
 
     <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager -->
+
+
     <dependency>
-      <groupId>org.hibernate</groupId>
-      <artifactId>hibernate-entitymanager</artifactId>
-      <version>5.4.0.Final</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-starter-web</artifactId>
     </dependency>
 
 
